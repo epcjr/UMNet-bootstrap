@@ -1,2 +1,2 @@
-# UMNet-bootstrap
-A role to manage UMNet and MiServer resources
+# UMNet-perfsonar
+UMNet perfSONAR config
